@@ -1,4 +1,4 @@
-module github.com/schollz/getsong
+module github.com/haphan/getsong
 
 require (
 	github.com/bogem/id3v2 v1.1.2
